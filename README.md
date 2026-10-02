@@ -38,6 +38,6 @@ Follow [DATA.md](docs/DATA.md). This baseline detects persistent negative NDVI d
 - Student notebook, three-hour workshop, five-week plan and facilitator notes.
 - Meaningful unit/integration checks and GitHub Actions across Python versions.
 
-[Contribution guide](CONTRIBUTING.md) · [acceptance checklist](docs/ACCEPTANCE.md) · [source catalogue](docs/SOURCES.md).
+[Contribution guide](CONTRIBUTING.md) · [acceptance checklist](docs/ACCEPTANCE.md) · [real datasets and studies](docs/SOURCES.md) · [real-data workshop](docs/REAL_DATA_WORKSHOP.md).
 
-No external data is bundled. Outputs are ignored by Git. Record licenses before sharing real datasets. Code is provided under MIT; this does not license third-party data or grant rights to the MeasureNature name.
+Real dataset download recipes are included; additional downloads are kept outside Git. A small CC BY 4.0 Finnish field dataset is bundled with attribution in `datasets/finnish-hydrology/`; other datasets are downloaded on demand. Outputs are ignored by Git. Record licenses before sharing real datasets. Code is provided under MIT; this does not license third-party data or grant rights to the MeasureNature name.

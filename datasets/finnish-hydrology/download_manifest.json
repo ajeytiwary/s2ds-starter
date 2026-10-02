@@ -1,0 +1,33 @@
+{
+  "record_url": "https://zenodo.org/records/17301631",
+  "files": [
+    {
+      "filename": "hydrological_data.csv",
+      "url": "https://zenodo.org/api/records/17301631/files/hydrological_data.csv/content",
+      "size_bytes": 8353,
+      "md5": "9e9f5256a0ff45c381536fa737db9d37",
+      "sha256": "fb59ab672f67ce8e372a39de170d48d954726ba20c548b304ea76080a9398ba3"
+    },
+    {
+      "filename": "READ_ME.txt",
+      "url": "https://zenodo.org/api/records/17301631/files/READ_ME.txt/content",
+      "size_bytes": 4511,
+      "md5": "5c811eec86f639f9ba37c13ea28b8e36",
+      "sha256": "c079017804d3fdd348ac6cc8853146c212b600cb220e2198713540d337090368"
+    },
+    {
+      "filename": "sites_data.csv",
+      "url": "https://zenodo.org/api/records/17301631/files/sites_data.csv/content",
+      "size_bytes": 3153,
+      "md5": "d9aa94d27f9bfc9d275f6a70d48cde15",
+      "sha256": "a88d392ebf6ade5cedc15b28e8dffe4e1e3613fcbfcd8e8302cb9e25fc732924"
+    },
+    {
+      "filename": "species_groups_data.csv",
+      "url": "https://zenodo.org/api/records/17301631/files/species_groups_data.csv/content",
+      "size_bytes": 8040,
+      "md5": "b413cfbde4c7bb1375185d5c85c81aea",
+      "sha256": "7e57f40f05692355f819800b41e06c7973b749b864d2a5a156f228a101b8554a"
+    }
+  ]
+}

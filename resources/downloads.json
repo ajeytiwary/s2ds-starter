@@ -1,0 +1,97 @@
+{
+  "finnish-hydrology": {
+    "record_id": "17301631",
+    "record_url": "https://zenodo.org/records/17301631",
+    "checked_date": "2026-10-02",
+    "files": [
+      {
+        "filename": "hydrological_data.csv",
+        "md5": "9e9f5256a0ff45c381536fa737db9d37"
+      },
+      {
+        "filename": "READ_ME.txt",
+        "md5": "5c811eec86f639f9ba37c13ea28b8e36"
+      },
+      {
+        "filename": "sites_data.csv",
+        "md5": "d9aa94d27f9bfc9d275f6a70d48cde15"
+      },
+      {
+        "filename": "species_groups_data.csv",
+        "md5": "b413cfbde4c7bb1375185d5c85c81aea"
+      }
+    ]
+  },
+  "finnish-baci": {
+    "record_id": "13929067",
+    "record_url": "https://zenodo.org/records/13929067",
+    "checked_date": "2026-10-02",
+    "files": [
+      {
+        "filename": "README.txt",
+        "md5": "80ee143af2d469071d875c6a910cfd64"
+      },
+      {
+        "filename": "site_data.csv",
+        "md5": "d4a8e3604e055f5adf085beef4babf0d"
+      },
+      {
+        "filename": "species_data.csv",
+        "md5": "6d1545a85319ccdb1568ba0a14444927"
+      }
+    ]
+  },
+  "forsinard": {
+    "record_id": "11186744",
+    "record_url": "https://zenodo.org/records/11186744",
+    "checked_date": "2026-10-02",
+    "files": [
+      {
+        "filename": "Acclima loggers Forsinard Phase 1 2018-2022_for Zenodo.csv",
+        "md5": "c910b2da6e2018c5868cdd7ef5871fc5"
+      },
+      {
+        "filename": "Forsinard_P0_JHI_Odysseys_compiled_2017-2018_forZenodo.csv",
+        "md5": "9064b71a878ae6eb5fefb6007cc2ba44"
+      },
+      {
+        "filename": "Forsinard_P1_JHI_Odysseys_compiled_2018-2023_forZenodo.csv",
+        "md5": "63e0a1409413dbceac96c957eaf94781"
+      },
+      {
+        "filename": "Forsinard_P1_WTD_QCflags.csv",
+        "md5": "1ce89462a274db4287fc2985be062eaa"
+      },
+      {
+        "filename": "README_CentrePeat_Forsinard_WTDandSMC_May2024.docx",
+        "md5": "1bbdd5bdb128b0ffcd3ae7f8841f1349"
+      }
+    ]
+  },
+  "bernadouze": {
+    "record_id": "7554537",
+    "record_url": "https://zenodo.org/records/7554537",
+    "checked_date": "2026-10-02",
+    "files": [
+      {
+        "filename": "Indices.csv",
+        "md5": "f821b6826a19d844581dd900cc97075a"
+      },
+      {
+        "filename": "WTD.csv",
+        "md5": "c2ca5edfb6e0af2c3c4816baf77f7192"
+      }
+    ]
+  },
+  "burned-area": {
+    "record_id": "6597139",
+    "record_url": "https://zenodo.org/records/6597139",
+    "checked_date": "2026-10-02",
+    "files": [
+      {
+        "filename": "satellite_data.csv",
+        "md5": "8a93ab8cd09a4c9b7a3096bb49379ba4"
+      }
+    ]
+  }
+}
