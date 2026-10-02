@@ -15,3 +15,7 @@
 
 ## Expected first result
 Twelve synthetic sites, four per partition, a report and a reproducible manifest. Scores depend on the fixture; learn the procedure, not its apparent accuracy. Train is reserved for future fitted models; the current baseline uses each site's pre-cutoff observations and validation-only threshold selection.
+
+## First independent real-data work
+
+Install `python -m pip install -e ".[analysis,notebooks]"`. Execute notebook 03 for Finnish field joins, QC and baselines; execute notebook 04 for the complete Daba imagery-to-map example. Both run on bundled originals without network access after dependencies are installed. Use STUDENT_TASKS.md for assigned deliverables and EVALUATION.md before changing models. Read the limitation statements in both reports.

@@ -1,0 +1,65 @@
+{
+  "source_doi": "10.5281/zenodo.6597139",
+  "archive_url": "https://zenodo.org/api/records/6597139/files/Satellite_burned_area_dataset_part5.zip/content",
+  "archive_md5": "456fd18a18e64a83c9176c3ac0f80cdf",
+  "archive_size": 1492742769,
+  "verification": "ZIP entry CRC32 and byte size; whole archive MD5 not verified because only selected ranges fetched",
+  "files": [
+    {
+      "filename": "sentinel2_2017-07-14.tiff",
+      "sha256": "d8e44874aea37bf0db0f1dac616a5abe15713711021d19b1b72fe4c02a5fd019",
+      "archive_offset": 1297813830,
+      "compressed_size": 7833688,
+      "crc32": 467827684,
+      "archive_member": "Satellite_burned_area_dataset_part5/EMSR226_01DABA_02GRADING_MAP_v1_vector/sentinel2_2017-07-14.tiff"
+    },
+    {
+      "filename": "sentinel2_2017-08-23.tiff",
+      "sha256": "f236435d76f64c70c5cb2d9d7096f647625eb1ab994e0f7aa51134de3f658fcb",
+      "archive_offset": 1305647676,
+      "compressed_size": 7514065,
+      "crc32": 2566300792,
+      "archive_member": "Satellite_burned_area_dataset_part5/EMSR226_01DABA_02GRADING_MAP_v1_vector/sentinel2_2017-08-23.tiff"
+    },
+    {
+      "filename": "sentinel1_2017-07-13_coverage.png",
+      "sha256": "4922b5164a38c10c3a9920ab96d10cf3119bad1f46afbc3031a8178e974f9474",
+      "archive_offset": 1313161899,
+      "compressed_size": 166,
+      "crc32": 2699492513,
+      "archive_member": "Satellite_burned_area_dataset_part5/EMSR226_01DABA_02GRADING_MAP_v1_vector/sentinel1_2017-07-13_coverage.png"
+    },
+    {
+      "filename": "sentinel1_2017-08-24_coverage.png",
+      "sha256": "4922b5164a38c10c3a9920ab96d10cf3119bad1f46afbc3031a8178e974f9474",
+      "archive_offset": 1318537417,
+      "compressed_size": 166,
+      "crc32": 2699492513,
+      "archive_member": "Satellite_burned_area_dataset_part5/EMSR226_01DABA_02GRADING_MAP_v1_vector/sentinel1_2017-08-24_coverage.png"
+    },
+    {
+      "filename": "sentinel2_2017-08-23_coverage.png",
+      "sha256": "4922b5164a38c10c3a9920ab96d10cf3119bad1f46afbc3031a8178e974f9474",
+      "archive_offset": 1321740044,
+      "compressed_size": 166,
+      "crc32": 2699492513,
+      "archive_member": "Satellite_burned_area_dataset_part5/EMSR226_01DABA_02GRADING_MAP_v1_vector/sentinel2_2017-08-23_coverage.png"
+    },
+    {
+      "filename": "sentinel2_2017-07-14_coverage.png",
+      "sha256": "4922b5164a38c10c3a9920ab96d10cf3119bad1f46afbc3031a8178e974f9474",
+      "archive_offset": 1322282463,
+      "compressed_size": 166,
+      "crc32": 2699492513,
+      "archive_member": "Satellite_burned_area_dataset_part5/EMSR226_01DABA_02GRADING_MAP_v1_vector/sentinel2_2017-07-14_coverage.png"
+    },
+    {
+      "filename": "EMSR226_01DABA_02GRADING_MAP_v1_vector_mask.tiff",
+      "sha256": "73dbc2f00dbb127e2e4754c38cc788c5542fa112f200e1ed21e03e4d9bb94abb",
+      "archive_offset": 1322282795,
+      "compressed_size": 20029,
+      "crc32": 3120324141,
+      "archive_member": "Satellite_burned_area_dataset_part5/EMSR226_01DABA_02GRADING_MAP_v1_vector/EMSR226_01DABA_02GRADING_MAP_v1_vector_mask.tiff"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "folder": "EMSR226_01DABA_02GRADING_MAP_v1_vector",
+  "top_left_long": "43.41219991",
+  "top_left_lat": "41.84788029999999",
+  "bottom_right_long": "43.49026098",
+  "bottom_right_lat": "41.80014572",
+  "activation_date": "20/08/2017",
+  "suggested_pre_date_from": "2017-07-10",
+  "suggested_pre_date_to": "2017-08-10",
+  "suggested_post_date_from": "2017-08-20",
+  "suggested_post_date_to": "2017-09-20",
+  "download_period_start": "20/07/2017",
+  "download_period_end": "20/09/2017",
+  "height": "512",
+  "width": "650",
+  "pre_date": "",
+  "post_date": "",
+  "situation_as_of": "",
+  "longitude": "43.451230445",
+  "latitude": "41.82401301",
+  "fold": "grey"
+}

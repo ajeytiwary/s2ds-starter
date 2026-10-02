@@ -13,7 +13,11 @@ Use the Finnish hydrology dataset for a small download, Forsinard for logger QC,
 8. For Bernadouze document aggregation of hourly WTD and its spatial match to vegetation-specific Sentinel-2 indices. Do not merge nearest timestamps without a tolerance and coverage rule.
 9. Produce a one-page feasibility note: question, available labels, AOI/date overlap, unresolved license/coordinates, split design, supported claims and next extraction task.
 
+## Worked solutions
+
+Run `python scripts/run_field_analysis.py` and notebook 03 for the completed field-only baseline. Run `python scripts/run_fire_example.py` and notebook 04 for a real fire-event demonstration. Read EVALUATION.md and STUDENT_TASKS.md before independent experiments.
+
 ## Extension to a real benchmark
-Build dedicated hydrological regression or event-mask adapters; the current CSV CLI only accepts its own site-level NDVI contract. For WTD report MAE/RMSE in explicit units, seasonal-baseline comparison and held-out-site results. For fire masks report event-level IoU/F1, cloud/water/ambiguous-pixel exclusions and spatial footprints. No direct converter is supplied because forcing treatment labels into “event_label” would produce misleading metrics.
+Build dedicated hydrological regression or event-mask adapters; the current CSV CLI only accepts its own site-level NDVI contract. For WTD report MAE/RMSE in explicit units, seasonal-baseline comparison and held-out-site results. For fire masks report event-level IoU/F1, cloud/water/ambiguous-pixel exclusions and spatial footprints. Dedicated worked field and fire runners are now supplied; neither forces treatment labels into the synthetic NDVI “event_label” contract. Multi-site EO/hydrology modelling remains project work.
 
 Mentor acceptance: all file bytes verified, columns explained using source documentation, no fabricated scene IDs/intervention dates, overlap and rights confirmed, and benchmark task chosen before model selection.

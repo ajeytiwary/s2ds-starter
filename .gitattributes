@@ -1,0 +1,6 @@
+* text=auto eol=lf
+datasets/** -text
+*.csv -text
+*.png -text
+*.tif -text
+*.tiff -text
