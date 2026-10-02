@@ -2,7 +2,7 @@
 
 Four Finnish hydrology originals downloaded successfully; all published MD5 checksums matched. Three CSVs inventoried without converting labels. Source API metadata states CC BY 4.0 for each of the five pinned Zenodo records. The study README and raw site table use different singular/plural site filenames; preserved as published.
 
-No EO extraction or predictive real-data performance is claimed. The remaining download recipes were checked against publisher listings and checksums but not executed.
+The original ingestion check covered field tables. The worked field baseline and real optical event below are now executed; satellite-to-WTD modelling remains unimplemented. Finnish hydrology and burned-area metadata downloads were executed; the other recipes were checked against listings/checksums but not executed.
 
 Inventory results:
 
@@ -14,6 +14,6 @@ Inventory results:
 
 Field join and baseline: 40 sites / 160 rows; frozen 10 km geographic-group split; descriptive treatment plots and field-only baseline errors. Real ForestPulse event: Daba, Georgia, 14 July / 23 August 2017 Sentinel-2 imagery; source event EMSR226; reference mask and member CRC/size plus bundled SHA-256 hashes verified. Source archive was only retrieved in selected ranges, so its full MD5 was not verified.
 
-All 16 tests pass locally and all four notebooks' code cells execute in process. Local Jupyter kernel startup is blocked by this environment's socket restrictions; full Jupyter execution is enforced by the CI notebook job. Linux/Windows CI status should be checked at the published commit.
+All 16 tests pass locally. GitHub CI run 37026778502 passed all six jobs: full Jupyter execution of all four notebooks; tests and real examples on Linux/Python 3.10, 3.11, 3.12 and 3.13; and Windows/Python 3.12. Run: https://github.com/ajeytiwary/s2ds-starter/actions/runs/37026778502 . Local notebook cells were additionally executed in process because local socket restrictions block Jupyter kernel startup.
 
 Scientific limits remain explicit: public labels, single optical event, missing dedicated cloud masks, reference pixel alignment assumed, no original scene product IDs, no end-to-end satellite-to-WTD or causal model.
