@@ -1,0 +1,19 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "measurenature-s2ds-starter"
+version = "0.1.0"
+description = "Offline S2DS Earth observation workshop starter"
+requires-python = ">=3.10"
+dependencies = []
+
+[project.optional-dependencies]
+notebooks = ["jupyterlab>=4,<5", "matplotlib>=3.8,<4"]
+
+[project.scripts]
+s2ds-starter = "s2ds_starter.__main__:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
